@@ -23,7 +23,7 @@ Accessibility: Built with the Atkinson Hyperlegible font for low-vision readers,
 Motion Preferences: Animations and transitions are halted if the user's system preferences are set to reduce motion utilizing @media (prefers-reduced-motion: reduce). 
 
 Tech Stack
-HTML5: Semantic structure including <header>, <main>, <section>, and <details> for the FAQ elements.   
+HTML5: Semantic structure including for the FAQ elements.   
 CSS3: Custom properties for design tokens (color palette and typography), flexbox, grid layout, and modular scoping.   
 JavaScript: No-dependency script utilizing an Immediately Invoked Function Expression (IIFE) for UI state management (idle, running, paused, done). 
 

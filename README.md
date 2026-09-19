@@ -30,4 +30,4 @@ JavaScript: No-dependency script utilizing an Immediately Invoked Function Expre
 Getting Started : 
 Since this project uses vanilla web technologies, no build step or package manager is required.Clone the repository to your local environment.
 Open tidal-landing-page.html in any modern web browser to interact with the prototype.   
-Reference tidal.png for the finalized logo asset.
+Reference tidal.jpg for the finalized logo asset.
